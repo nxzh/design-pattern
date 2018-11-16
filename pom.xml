@@ -15,6 +15,7 @@
     <module>template-method</module>
     <module>factory-method</module>
     <module>prototype-pattern</module>
+    <module>singleton-pattern</module>
   </modules>
 
 
