@@ -13,9 +13,10 @@
     <module>iterator-pattern</module>
     <module>adapter-pattern</module>
     <module>template-method</module>
-    <module>factory-method</module>
+    <module>hamburgerShop-method</module>
     <module>prototype-pattern</module>
     <module>singleton-pattern</module>
+    <module>abstract-hamburgerShop</module>
   </modules>
 
 
