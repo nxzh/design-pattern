@@ -14,6 +14,7 @@
     <module>adapter-pattern</module>
     <module>template-method</module>
     <module>factory-method</module>
+    <module>prototype-pattern</module>
   </modules>
 
 
