@@ -17,6 +17,7 @@
     <module>prototype-pattern</module>
     <module>singleton-pattern</module>
     <module>abstract-factory</module>
+    <module>builder-pattern</module>
   </modules>
 
 

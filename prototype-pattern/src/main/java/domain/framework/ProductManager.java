@@ -12,6 +12,6 @@ public class ProductManager {
 
   public Product create(String name) {
     return Optional.of(map.get(name)).map(Product::copy
-    ).orElseThrow(() -> new IllegalStateException("Can't find product register with name" + name));
+    ).orElseThrow(() -> new IllegalStateException("Can't find product register domain name" + name));
   }
 }
