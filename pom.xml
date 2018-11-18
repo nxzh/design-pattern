@@ -18,6 +18,7 @@
     <module>singleton-pattern</module>
     <module>abstract-factory</module>
     <module>builder-pattern</module>
+    <module>bridge-pattern</module>
   </modules>
 
 
