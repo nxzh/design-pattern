@@ -21,6 +21,7 @@
     <module>bridge-pattern</module>
     <module>strategy-pattern</module>
     <module>composite-pattern</module>
+    <module>decorator-pattern</module>
   </modules>
 
 
