@@ -12,9 +12,9 @@ public class Main {
       car.setColor("blue");
 
     } else {
-      car.setChassis("BMW chassis");
-      car.setEngine("BMW engine");
-      car.setGearBox("BMW gear box");
+      car.setChassis("Audi chassis");
+      car.setEngine("Audi engine");
+      car.setGearBox("Audi gear box");
       car.setColor("black");
     }
 
